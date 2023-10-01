@@ -1,2 +1,2 @@
-export const baseUrl = "https://flagright.onrender.com";
+export const baseUrl = process.env.BACKEND;
 
