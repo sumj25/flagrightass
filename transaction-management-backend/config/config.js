@@ -1,5 +1,5 @@
 const config = {
-  mongodbURI: "mongodb+srv://suman:<password>@suman.7r2itlc.mongodb.net/",
+  mongodbURI: "mongodb+srv://suman:sumj5@suman.7r2itlc.mongodb.net/",
   jwtSecret: "SECRET",
 };
 
