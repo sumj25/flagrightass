@@ -9,11 +9,12 @@ function App() {
     loginApi().then((res) => {
       const t = "Bearer " + res?.token;
       setJWTtoken(t);
+      console.log(JWTtoken);
     });
   }, []);
 
   return (
-    <div className="App">{JWTtoken && <Dashboard JWTtoken={JWTtoken} />}</div>
+    <div className="App">hello</div>
   );
 }
 
