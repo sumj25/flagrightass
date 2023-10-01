@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sumj25/flagrightass/static/css/main.f0252a41.css",
-    "main.js": "/sumj25/flagrightass/static/js/main.53baf02b.js",
-    "static/js/787.98314ef4.chunk.js": "/sumj25/flagrightass/static/js/787.98314ef4.chunk.js",
-    "index.html": "/sumj25/flagrightass/index.html",
-    "main.f0252a41.css.map": "/sumj25/flagrightass/static/css/main.f0252a41.css.map",
-    "main.53baf02b.js.map": "/sumj25/flagrightass/static/js/main.53baf02b.js.map",
-    "787.98314ef4.chunk.js.map": "/sumj25/flagrightass/static/js/787.98314ef4.chunk.js.map"
+    "main.css": "/flagrightass/static/css/main.f0252a41.css",
+    "main.js": "/flagrightass/static/js/main.5da194d9.js",
+    "static/js/787.98314ef4.chunk.js": "/flagrightass/static/js/787.98314ef4.chunk.js",
+    "index.html": "/flagrightass/index.html",
+    "main.f0252a41.css.map": "/flagrightass/static/css/main.f0252a41.css.map",
+    "main.5da194d9.js.map": "/flagrightass/static/js/main.5da194d9.js.map",
+    "787.98314ef4.chunk.js.map": "/flagrightass/static/js/787.98314ef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0252a41.css",
-    "static/js/main.53baf02b.js"
+    "static/js/main.5da194d9.js"
   ]
 }
