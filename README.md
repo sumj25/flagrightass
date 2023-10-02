@@ -14,8 +14,8 @@ cd backend
 # Install dependencies
 npm install
 
-# Run the backend server using nodemon
-nodemon index.js
+# Run the backend server using node
+node index.js
 ```
 
 ## Frontend
