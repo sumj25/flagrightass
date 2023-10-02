@@ -1,6 +1,7 @@
 # flagrightass
 Assignment for Flagright
-![ScreenShot](https://drive.google.com/file/d/1XZ7AP2n_nQPfunDm27JpCexZ4ntn2Ciw/view?usp=sharing)
+![Screenshot](https://github.com/sumj25/flagrightass/assets/59159432/bf4fe606-e089-4af4-a0c6-029ed08d6bf1)
+
 
 ## Local Setup
 
