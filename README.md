@@ -1,6 +1,6 @@
 # flagrightass
 Assignment for Flagright
-![ScreenShot]([https://example.com/images/my_image.png](https://drive.google.com/file/d/1XZ7AP2n_nQPfunDm27JpCexZ4ntn2Ciw/view?usp=sharing)https://drive.google.com/file/d/1XZ7AP2n_nQPfunDm27JpCexZ4ntn2Ciw/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1XZ7AP2n_nQPfunDm27JpCexZ4ntn2Ciw/view?usp=sharing)
 
 ## Local Setup
 
